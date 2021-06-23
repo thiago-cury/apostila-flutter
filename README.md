@@ -8,4 +8,9 @@ Exemplos apostila de Flutter
 
 3 - Previsão do tempo (consumo API https://hgbrasil.com/status/weather)
 
-4 - ...
+4 - Barbearia
+Libs utilizadas:
+[Flutter native Splash (https://pub.dev/packages/flutter_native_splash)]
+[SQFLite (https://pub.dev/packages/sqflite)]
+
+5 - ...
